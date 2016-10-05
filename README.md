@@ -5,4 +5,4 @@ Please send all homework to `lsz@lorandszakacs.com` with the string `plda-hw-X` 
 You can find each homework in their respective folders.
 
 ### Summary
-- 
+- [Homework 1](./labs) due October 30th. 
