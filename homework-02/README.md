@@ -71,5 +71,6 @@ Recommended reading:
  * check out the lectures from [weeks 3 and 4](http://bigfoot.cs.upt.ro/~marius/curs/plda/index.html)
  * *Programming Languages: Application and Interpretation*, Shriram Krishnamurthi, [chapter 15](http://cs.brown.edu/courses/cs173/2012/book/types.html), specifically related to inference is [subsection 15.3.2](http://cs.brown.edu/courses/cs173/2012/book/types.html#(part._.Type_.Inference))
  * implementations (in Ocaml) from the *Type and Programming Languages* book by Benjamin C. Pierce are available [online](http://www.cis.upenn.edu/~bcpierce/tapl/). You can access this book in [draft form](http://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf) for free.
-   * a Haskell port of the implementations from the TAPL book are also [available](https://code.google.com/p/tapl-haskell/)
+   * a Haskell port of the implementations from the TAPL book are also [available](https://code.google.com/p/tapl-haskell/)  
+
 * [Essentials of Programming Languages](https://karczmarczuk.users.greyc.fr/TEACH/Doc/EssProgLan.pdf), Friedman et. al. Chapter 7.
