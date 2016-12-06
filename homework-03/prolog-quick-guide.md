@@ -14,6 +14,14 @@ For example's sake, let's say we have a file `/home/users/lorand/test-prolog/sim
 true.
 ```
 
+### How to exit the interpreter
+
+```
+?- halt.
+```
+
+### Example
+
 Okay, not we can start adding things to the `simple.pl` file. `.pl` files can contain so called `Clauses.` The simplest of these clauses are called `Facts` and are of the form `$name($terms *)`, where a term can either be a constant(always starts with lowercase), or it can be a variable(always starts with uppercase) e.g:
 
 ```prolog
